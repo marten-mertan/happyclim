@@ -1114,7 +1114,7 @@ a {
             right: -74px;
             top: -102px; } }
         .important-tablet-item.mod-day .important-tablet-item-desc {
-          width: 120px; }
+          width: 134px; }
           @media screen and (max-width: 1140px) {
             .important-tablet-item.mod-day .important-tablet-item-desc {
               width: 100px; } }
@@ -1136,7 +1136,7 @@ a {
           width: 172px; }
         .important-tablet-item.mod-month .important-tablet-item-decor {
           left: 104px;
-          top: -106px; }
+          top: -120px; }
           @media screen and (max-width: 1140px) {
             .important-tablet-item.mod-month .important-tablet-item-decor {
               left: 60px;
@@ -1158,7 +1158,7 @@ a {
           width: 236px; }
           @media screen and (max-width: 1140px) {
             .important-tablet-item.mod-attention .important-tablet-item-desc {
-              width: 130px; } }
+              width: 120px; } }
 
 .buy {
   position: relative;
