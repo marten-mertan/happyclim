@@ -152,7 +152,10 @@ a {
   margin: 0; }
 
 .header {
-  position: relative;
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
   z-index: 10; }
   .header-body {
     background: #8d0e57;
@@ -447,8 +450,9 @@ a {
 
 .head {
   position: relative;
-  height: 680px;
-  background: url(../assets/img/head.png) 50% 100% no-repeat;
+  height: 720px;
+  padding-top: 60px;
+  background: url(../assets/img/head.png) 50% 50% no-repeat;
   background-size: cover;
   z-index: 2; }
   @media screen and (max-width: 1140px) {
@@ -1370,6 +1374,7 @@ a {
 .main {
   position: relative;
   background: #f1f2f6;
+  padding-top: 60px;
   z-index: 1; }
   @media screen and (max-width: 1140px) {
     .main {
